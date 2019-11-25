@@ -1,1 +1,4 @@
 //javascript code
+function min() {
+
+}
