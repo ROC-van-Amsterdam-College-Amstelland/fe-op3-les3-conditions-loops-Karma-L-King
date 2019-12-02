@@ -1,5 +1,5 @@
 //javascript code
-js
+
 var tekst = "";
 for (i = 0; i < 6; i++) {
     tekst += i + "<br>";
